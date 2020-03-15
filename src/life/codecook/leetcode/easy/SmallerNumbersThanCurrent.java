@@ -1,4 +1,4 @@
-package life.codecook.leetcode;
+package life.codecook.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;
