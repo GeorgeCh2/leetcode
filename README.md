@@ -14,5 +14,7 @@
 | 771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|[Java](/src/life/codecook/leetcode/easy/NumJewelsInStones.java)|
 | 1108|[IP地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)|[Java](/src/life/codecook/leetcode/easy/DefangIPaddr.java)|
 | 1266|[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)|[Java](/src/life/codecook/leetcode/easy/MinTimeToVisitAllPoints.java)|
-
-
+| 1389|[按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/)|[Java](/src/life/codecook/leetcode/easy/CreateTargetArray.java)|
+| 237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[Java](/src/life/codecook/leetcode/easy/DeleteNode.java)|
+| 1290|[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Java](/src/life/codecook/leetcode/easy/GetDecimalValue.java)|
+| 1351|[统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Java](/src/life/codecook/leetcode/easy/CountNegatives.java)|
