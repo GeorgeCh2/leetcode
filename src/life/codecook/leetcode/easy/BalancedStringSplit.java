@@ -1,12 +1,9 @@
 package life.codecook.leetcode.easy;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 分割平衡字符串
  *
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2020-04-20 22:42
  */
 public class BalancedStringSplit {

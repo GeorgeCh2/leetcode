@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 按既定顺序创建目标数组
  *
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2020-04-19 15:44
  */
 public class CreateTargetArray {

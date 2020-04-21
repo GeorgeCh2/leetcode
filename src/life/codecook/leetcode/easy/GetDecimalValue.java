@@ -3,7 +3,7 @@ package life.codecook.leetcode.easy;
 /**
  * 二进制链表转整数
  *
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2020-04-19 16:19
  */
 public class GetDecimalValue {
