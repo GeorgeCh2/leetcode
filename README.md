@@ -21,3 +21,4 @@
 | 1221|[分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|[Java](/src/life/codecook/leetcode/easy/BalancedStringSplit.java)
 | 1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|[Java](/src/life/codecook/leetcode/easy/RemoveOuterParentheses.java)
 |  938|[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)|[Java](/src/life/codecook/leetcode/easy/RangeSumBST.java)
+| 1299|[将每个元素替换为右侧最大元素](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/)[Java](/src/life/codecook/leetcode/easy/ReplaceElements.java)
